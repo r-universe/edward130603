@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesSpace"]
+	path = BayesSpace
+	url = https://github.com/edward130603/bayesspace
+	shallow = true
+	registered = true
